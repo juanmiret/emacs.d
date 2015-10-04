@@ -1,1 +1,4 @@
-This is Steve Purcell's emacs, but instead of IDO this uses HELM
+This is Steve Purcell's emacs config with slight changes:
+
+-Replaces IDO with HELM
+-Monokai theme by default
